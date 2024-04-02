@@ -14,7 +14,7 @@ We invite you to join us for this session where you can ask questions on best pr
 
 - [Upgrade to App Service Environment v3 - Azure App Service Environment | Microsoft Learn](https://learn.microsoft.com/en-us/azure/app-service/environment/upgrade-to-asev3)
 - [Migrate to App Service Environment v3 by using the in-place migration feature - Azure App Service Environment | Microsoft Learn](https://learn.microsoft.com/en-us/azure/app-service/environment/migrate)
-- [Learn Live - ASE v1/v2 Migration to ASE v3 - YouTube] (https://www.youtube.com/watch?v=lI9TK_v-dkg)
+- [Learn Live - ASE v1/v2 Migration to ASE v3 - YouTube](https://www.youtube.com/watch?v=lI9TK_v-dkg)
 - [Migrate to App Service Environment v3 by using the side-by-side migration feature - Azure App Service Environment | Microsoft Learn](https://learn.microsoft.com/en-us/azure/app-service/environment/side-by-side-migrate)
 
 ## API Management stv1 to stv2 migration
